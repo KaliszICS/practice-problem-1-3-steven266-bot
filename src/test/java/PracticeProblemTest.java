@@ -15,7 +15,7 @@ public class PracticeProblemTest {
      PracticeProblem.q1();
 
      // assertion
-     assertEquals(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n\n* * * * *\n*       *\n*       *\n*       *\n* * * * *\n\n* * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n", bos.toString());
+     assertEquals(" * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n * * * * * *\n* * * * * *\n\n* * * * *\n*       *\n*       *\n*       *\n* * * * *\n\n* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *\n", bos.toString());
 
      // undo the binding in System
      System.setOut(originalOut);
