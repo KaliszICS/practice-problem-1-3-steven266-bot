@@ -8,19 +8,22 @@ public class PracticeProblem {
 	}
 
 	public static void q1() {
-		//Write question 1 code here
+		System.out.println(" * * * * * *\n* * * * * *\n * * * * * *");
+		System.out.println("* * * * * *\n * * * * * *\n* * * * * *");
 	}
 
 	public static void q2() {
-		//Write question 2 code here
+		System.out.println("* * * * *\n*       *\n*       *");
+		System.out.println("*       *\n* * * * *");
 	}
 
 	public static void q3() {
-		//Write question 3 code here
+		System.out.println("* * * * * *\n *       *\n  *     *");
+		System.out.println("   *   *\n    * *\n     *");
 	}
 
 	public static void q4() {
-		//Write question 4 code here
+		
 	}
 
 
